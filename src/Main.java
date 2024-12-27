@@ -13,6 +13,7 @@ public class Main {
             System.out.println("success");
             System.out.println("failed");
             System.out.println("successFailed");
+            System.out.println("formate");
 
         }
     }
